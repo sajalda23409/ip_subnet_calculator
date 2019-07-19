@@ -12,11 +12,22 @@ Here is the code to survive from this type of situation.
 
 When the code is triggered, it will ask for providing IP address in XXX.XXX.XXX.XXX/YY format.
 
+![Enter IP Address](https://github.com/sajalda23409/ip_subnet_calculator/blob/master/image/1.PNG)
+
+
 In return, it will create an "output" file in the same directory where the code is present and push all the subnet information in it.
 
 The file is appended with new information of subnetting, everytime the code is triggered.
 
-After the IP address is entered, it will ask for the new subnet size, you want to move and planned in "/YY" format.
+After the IP address is entered, it will ask for the new subnet size, you want to move and planned in "YY" format.
+
+![Enter the new subnet size](https://github.com/sajalda23409/ip_subnet_calculator/blob/master/image/2.PNG)
+
+The subnetting is done at backend and the results are added in the "ouput.txt" file.
+
+Here is a sample output details of IPv4 and IPv6 as reference.
+
+Please check my Repo for the same. Thanks.
 
 
 
